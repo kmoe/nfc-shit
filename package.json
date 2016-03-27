@@ -1,0 +1,27 @@
+{
+  "name": "nfc-shit",
+  "version": "1.0.0",
+  "description": "just some libnfc node shit",
+  "main": "index.js",
+  "scripts": {
+    "test": "nope"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmoe/nfc-shit.git"
+  },
+  "author": "Katy Moe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmoe/nfc-shit/issues"
+  },
+  "homepage": "https://github.com/kmoe/nfc-shit#readme",
+  "dependencies": {
+    "nfc": "^0.3.1",
+    "pn532": "^0.1.0",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {
+    "serialport": "^2.0.6"
+  }
+}
