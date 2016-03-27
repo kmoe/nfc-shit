@@ -17,11 +17,7 @@
   },
   "homepage": "https://github.com/kmoe/nfc-shit#readme",
   "dependencies": {
-    "nfc": "^0.3.1",
     "pn532": "^0.1.0",
-    "util": "^0.10.3"
-  },
-  "devDependencies": {
     "serialport": "^2.0.6"
   }
 }
